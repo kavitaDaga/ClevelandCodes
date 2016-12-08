@@ -1,0 +1,6 @@
+C:\Users\ClevelandCodes\Desktop\CCProjects\Chap9\NewDeckCards\NewDeckCards\bin\Debug\NewDeckCards.exe.config
+C:\Users\ClevelandCodes\Desktop\CCProjects\Chap9\NewDeckCards\NewDeckCards\bin\Debug\NewDeckCards.exe
+C:\Users\ClevelandCodes\Desktop\CCProjects\Chap9\NewDeckCards\NewDeckCards\bin\Debug\NewDeckCards.pdb
+C:\Users\ClevelandCodes\Desktop\CCProjects\Chap9\NewDeckCards\NewDeckCards\obj\Debug\NewDeckCards.csprojResolveAssemblyReference.cache
+C:\Users\ClevelandCodes\Desktop\CCProjects\Chap9\NewDeckCards\NewDeckCards\obj\Debug\NewDeckCards.exe
+C:\Users\ClevelandCodes\Desktop\CCProjects\Chap9\NewDeckCards\NewDeckCards\obj\Debug\NewDeckCards.pdb
