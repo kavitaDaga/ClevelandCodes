@@ -1,0 +1,64 @@
+header{
+	  background:url("../images/background.jpg");
+      background-size: cover;
+
+}
+.main_nav {
+      background-color: green;
+}
+
+.nav {
+  text-align: center;
+  border:10;
+  padding: 10;
+  margin: 10;
+}
+
+
+.list {
+      font-family: 'Oswald', sans-serif;
+      font-size: 1.2em;
+      padding: 15px;
+	    border: 10px;
+	    margin:5px;
+	    display:inline;
+  }
+
+.name {
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    display:inline-block;
+		text-decoration:none;
+}
+a:hover
+{
+	background-color:red;
+}
+
+name.active {
+  background-color: orange;
+  color: #444;
+  cursor: default;
+}
+
+h1{
+   color:white;
+   font-size:70px;
+}
+
+.profile-image {
+	  margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 100px;
+	  height:100px;
+	  width:100px;
+	}
+.main_section
+   {
+	  max-width:cover;
+  padding: 20px;
+      margin: 0 auto;
+	  color:black;
+	  font-size:20px;
+    }
